@@ -1,2 +1,3 @@
 # hello-cy
-rem
+
+This is a test how to create repositories in github
